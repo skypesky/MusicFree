@@ -55,6 +55,8 @@ rules: ""
 locale: en
 translateLanguages:
   - zh
+  - zh-TW
+  - ja
 pagesDir: .aigne/web-smith/pages  # Directory to save generated pages
 sourcesPath:  # Source code paths to analyze
   - ./readme-en.md
@@ -64,7 +66,7 @@ defaultDatasources:  # Default datasources included in every page
 # minImageWidth: Only images wider than this value (in pixels) will be used in page generation
 media:
   minImageWidth: 800
-lastGitHead: 4a8c9535dfe5c22492c812caeb20e4ed8e718e73
+lastGitHead: 30be201793582adbf46bc9c7784bbd57b1c826df
 appUrl: https://websmith.aigne.io
 # Checkout ID for website deployment service
 checkoutId: ""

@@ -1,7 +1,7 @@
 id: 616571b7c79a8472
-createdAt: 2025-10-17T08:32:00.420Z
-updatedAt: 2025-10-17T08:32:00.420Z
-publishedAt: 2025-10-17T08:32:00.420Z
+createdAt: 2025-10-17T09:21:13.402Z
+updatedAt: 2025-10-17T09:21:13.402Z
+publishedAt: 2025-10-17T09:21:13.402Z
 isPublic: true
 locales:
   en:
@@ -23,8 +23,31 @@ locales:
       maxWidth: custom:1440px
       paddingY: normal
       paddingX: normal
-    title: MusicFree | 基于插件的安卓无广告音乐播放器
-    description: 使用 MusicFree，随心所欲体验音乐！这是一款基于插件、可自定义、100% 无广告的安卓音乐播放器。所有数据本地存储，尽享完全隐私。立即下载！
+    title: MusicFree | 基于插件、无广告的安卓音乐播放器
+    description: 使用 MusicFree，随心畅享音乐！这是一款由插件驱动、可自定义、100% 无广告的安卓音乐播放器。所有数据本地存储，全面保护您的隐私。立即下载！
+    image: https://placehold.co/1200x630?text=MusicFree
+    header:
+      sticky: true
+  zh-TW:
+    backgroundColor: ""
+    style:
+      maxWidth: custom:1440px
+      paddingY: normal
+      paddingX: normal
+    title: MusicFree | 基於插件、無廣告的 Android 音樂播放器
+    description: 使用 MusicFree，以您的方式體驗音樂！一款由插件驅動、可自訂且 100% 無廣告的 Android
+      音樂播放器。透過本機資料儲存，享受完全的隱私。立即下載！
+    image: https://placehold.co/1200x630?text=MusicFree
+    header:
+      sticky: true
+  ja:
+    backgroundColor: ""
+    style:
+      maxWidth: custom:1440px
+      paddingY: normal
+      paddingX: normal
+    title: MusicFree | プラグイン対応・広告なしのAndroid向け音楽プレイヤー
+    description: MusicFreeで音楽を思いのままに！プラグイン対応、カスタマイズ可能、そして100%広告なしのAndroid向け音楽プレイヤー。データはローカルに保存され、プライバシーも万全です。今すぐダウンロード！
     image: https://placehold.co/1200x630?text=MusicFree
     header:
       sticky: true
@@ -1260,8 +1283,8 @@ dataSource:
             list:
               - id: item-1759121327460-gc8w9kaxt
                 type: text
-                text: 了解一下
-                  MusicFree，这是一款基于插件的安卓无广告音乐播放器。您可以通过插件连接到任何在线音源、自定义您的体验，并享受无中断的音乐。您的所有数据都保留在设备上。
+                text: 来认识一下
+                  MusicFree，这款基于插件、无广告的安卓音乐播放器。自定义您的体验，通过插件连接到任何在线音源，不受干扰地享受您的音乐。您的所有数据都保留在您的设备上。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1269,6 +1292,49 @@ dataSource:
         gs1rn5jmxfvpxptx:
           value:
             text: 你的音乐，你做主。完全免费。
+            style:
+              variant: h1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    zh-TW:
+      properties:
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759121327460-gc8w9kaxt
+                type: text
+                text: 認識 MusicFree，這款基於插件、無廣告的 Android
+                  音樂播放器。自訂您的體驗，透過插件連接到任何線上來源，不受干擾地享受您的音樂。您的所有資料都儲存在您的裝置上。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 你的音樂，你的規則。完全免費。
+            style:
+              variant: h1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    ja:
+      properties:
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759121327460-gc8w9kaxt
+                type: text
+                text: Android向けプラグイン対応・広告なしの音楽プレイヤー、MusicFreeをご紹介します。プラグインでオンライン上のあらゆる音源に接続し、あなただけの体験をカスタマイズ。中断されることなく音楽を楽しめます。あなたのデータはすべて、お使いのデバイス上に保存されます。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        gs1rn5jmxfvpxptx:
+          value:
+            text: あなたの音楽を、あなたのルールで。完全無料。
             style:
               variant: h1
         v5utpm7bu9yvdpnq:
@@ -1324,6 +1390,54 @@ dataSource:
           value: flex-start
         v9979xeclpsbvn0n:
           value: flex-start
+    zh-TW:
+      properties:
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: 立即下載
+              url: https://github.com/maotoumao/MusicFree/releases
+              variant: contained
+              size: large
+              target: auto
+              needLogin: false
+            - id: btn-1759121436561-6r9xmg35x
+              text: 在 GitHub 上查看
+              variant: outlined
+              borderColor: primary.main
+              size: large
+              url: https://github.com/maotoumao/MusicFree
+        r8t5y6u7i1o2p3a4:
+          value: 16
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        v9979xeclpsbvn0n:
+          value: flex-start
+    ja:
+      properties:
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: 今すぐダウンロード
+              url: https://github.com/maotoumao/MusicFree/releases
+              variant: contained
+              size: large
+              target: auto
+              needLogin: false
+            - id: btn-1759121436561-6r9xmg35x
+              text: GitHubで見る
+              variant: outlined
+              borderColor: primary.main
+              size: large
+              url: https://github.com/maotoumao/MusicFree
+        r8t5y6u7i1o2p3a4:
+          value: 16
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        v9979xeclpsbvn0n:
+          value: flex-start
   f98b98ffd13b8a1d:
     en:
       properties:
@@ -1336,6 +1450,26 @@ dataSource:
         jjv0hvr8wrixt1f3:
           value: 1
     zh:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x600?text=MusicFree+UI
+            mediaKitUrl: https://placehold.co/800x600?text=MusicFree+UI
+            width: 2445
+            height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
+    zh-TW:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x600?text=MusicFree+UI
+            mediaKitUrl: https://placehold.co/800x600?text=MusicFree+UI
+            width: 2445
+            height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
+    ja:
       properties:
         7m5pz8nefl5j9hqq:
           value:
@@ -1365,7 +1499,29 @@ dataSource:
           value: center
         gs1rn5jmxfvpxptx:
           value:
-            text: 你会爱上 MusicFree 的理由
+            text: 为什么你会爱上 MusicFree
+            style:
+              variant: h2
+    zh-TW:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 您會愛上 MusicFree 的理由
+            style:
+              variant: h2
+    ja:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+        gs1rn5jmxfvpxptx:
+          value:
+            text: MusicFreeの魅力
             style:
               variant: h2
   8a0319c7be20285c:
@@ -1407,7 +1563,49 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: MusicFree 只是一个播放器！音源由您决定。安装插件即可从网络上任意位置搜索、播放和导入音乐。
+                text: MusicFree 只是一个播放器！音源由你决定。安装插件即可从网络上任何地方搜索、播放和导入音乐。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh-TW:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 插件驅動的音樂
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: MusicFree 只是一個播放器！由您決定來源。安裝插件即可從網路上任何地方搜尋、播放和匯入。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    ja:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: プラグインで広がる音楽体験
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: MusicFreeは単なるプレイヤーです！音源はあなたが決めます。プラグインをインストールして、ウェブ上のあらゆる場所から検索、再生、インポートが可能です。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1422,6 +1620,22 @@ dataSource:
         529qbwiam7oypw8e:
           value: 40px
     zh:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:plug-zap
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    zh-TW:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:plug-zap
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    ja:
       properties:
         5ek4m0kw9cu0ndns:
           value: lucide:plug-zap
@@ -1468,7 +1682,49 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: 在浅色和深色模式间切换，或设置自定义背景，让播放器真正属于您。一切由您的风格决定。
+                text: 在浅色和深色模式之间切换，或设置自定义背景，让播放器真正属于你。一切由你的风格决定。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh-TW:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 你的風格，你的外觀
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 在淺色和深色模式之間切換，或設定自訂背景，讓播放器真正屬於您。一切由您的風格決定。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    ja:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: あなた好みのデザインに
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: ライトモードとダークモードを切り替えたり、カスタム背景を設定したりして、プレイヤーをあなただけのものに。すべてはあなたのスタイル次第です。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1483,6 +1739,22 @@ dataSource:
         529qbwiam7oypw8e:
           value: 40px
     zh:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:palette
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    zh-TW:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:palette
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    ja:
       properties:
         5ek4m0kw9cu0ndns:
           value: lucide:palette
@@ -1521,7 +1793,7 @@ dataSource:
           value: flex-start
         gs1rn5jmxfvpxptx:
           value:
-            text: 无广告 & 开源
+            text: 纯净无广告 & 开源
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1530,6 +1802,48 @@ dataSource:
               - id: item-1759143324880-zr95ywd04
                 type: text
                 text: 享受不间断的聆听体验。MusicFree 完全免费、开源，并且永远不会有广告。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh-TW:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 無廣告 & 開源
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 享受不間斷的聆聽體驗。MusicFree 完全免費、開源，且永遠不會有廣告。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    ja:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 広告なし＆オープンソース
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 中断されることのないリスニング体験をお楽しみください。MusicFreeは完全に無料でオープンソースであり、今後も広告は一切表示されません。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1544,6 +1858,22 @@ dataSource:
         529qbwiam7oypw8e:
           value: 40px
     zh:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:shield-off
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    zh-TW:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:shield-off
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    ja:
       properties:
         5ek4m0kw9cu0ndns:
           value: lucide:shield-off
@@ -1595,6 +1925,48 @@ dataSource:
                   color: ""
                   fontSize: 16px
                   variant: body1
+    zh-TW:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 您的資料，由您掌握
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 您的所有資料、播放清單和設定都儲存在您的裝置本機。我們不收集您的任何個人資訊。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    ja:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: あなたのデータはあなたのもの
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: プレイリストや設定など、すべてのデータはお使いのデバイスのローカルに保存されます。私たちはあなたの個人情報を一切収集しません。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
   3146007f1ae8e627:
     en:
       properties:
@@ -1605,6 +1977,22 @@ dataSource:
         529qbwiam7oypw8e:
           value: 40px
     zh:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:lock
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    zh-TW:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:lock
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    ja:
       properties:
         5ek4m0kw9cu0ndns:
           value: lucide:lock
@@ -1651,7 +2039,49 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: 将一首歌的歌词关联到另一首歌。非常适合翻唱、混音，或者当您在别处找到更好的歌词时使用。
+                text: 将一首歌的歌词链接到另一首歌。非常适合翻唱、混音，或者当你在别处找到更好的歌词时使用。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh-TW:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 歌詞關聯
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 將一首歌的歌詞連結到另一首歌。非常適合翻唱、混音，或當您在其他地方找到更好的歌詞時使用。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    ja:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 歌詞の関連付け機能
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: ある曲の歌詞を別の曲にリンクできます。カバー曲やリミックス、または他の場所でより良い歌詞を見つけた場合に最適です。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1666,6 +2096,22 @@ dataSource:
         529qbwiam7oypw8e:
           value: 40px
     zh:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:music-4
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    zh-TW:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:music-4
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    ja:
       properties:
         5ek4m0kw9cu0ndns:
           value: lucide:music-4
@@ -1704,7 +2150,7 @@ dataSource:
           value: flex-start
         gs1rn5jmxfvpxptx:
           value:
-            text: 支持桌面版！
+            text: 桌面端同样可用！
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1712,7 +2158,49 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: 喜欢手机上的 MusicFree 吗？在您的桌面上也能获得同样出色的体验。请在 GitHub 上查看 MusicFreeDesktop。
+                text: 喜欢手机上的 MusicFree 吗？在您的桌面上也能获得同样出色的体验。快去 GitHub 上看看 MusicFreeDesktop 吧。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh-TW:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 也有桌面版！
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 喜歡手機上的 MusicFree 嗎？在您的桌機上也能獲得同樣出色的體驗。快到 GitHub 上查看 MusicFreeDesktop。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    ja:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: デスクトップ版もあります！
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: スマホのMusicFreeが気に入りましたか？デスクトップでも同じ素晴らしい体験を。GitHubでMusicFreeDesktopをチェックしてください。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1727,6 +2215,22 @@ dataSource:
         529qbwiam7oypw8e:
           value: 40px
     zh:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:laptop
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    zh-TW:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:laptop
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    ja:
       properties:
         5ek4m0kw9cu0ndns:
           value: lucide:laptop
@@ -1762,7 +2266,7 @@ dataSource:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: 秒速上手
+            text: 快速上手
             style:
               variant: h2
         v5utpm7bu9yvdpnq:
@@ -1774,7 +2278,49 @@ dataSource:
             list:
               - id: item-1759204484222-0kvkmgmke
                 type: text
-                text: 安装插件轻而易举。前往“设置”，点击“从网络安装插件”，然后粘贴插件仓库的 URL。即刻开始聆听！
+                text: 安装插件轻而易举。前往“设置”，点击“从网络安装插件”，然后粘贴插件仓库的 URL。您很快就能开始听歌了！
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh-TW:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 數秒內即可開始
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759204484222-0kvkmgmke
+                type: text
+                text: 安裝插件輕而易舉。前往「設定」，點擊「從網路安裝插件」，然後貼上插件儲存庫的 URL。您馬上就能開始聽音樂了！
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    ja:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 数秒でセットアップ完了
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759204484222-0kvkmgmke
+                type: text
+                text: プラグインのインストールは簡単です。「設定」に移動し、「ネットワークからプラグインをインストール」をタップして、プラグインリポジトリのURLを貼り付けます。すぐに音楽を聴き始められます！
                 style:
                   color: ""
                   fontSize: 16px
@@ -1814,6 +2360,40 @@ dataSource:
           value: flex-start
         v9979xeclpsbvn0n:
           value: flex-start
+    zh-TW:
+      properties:
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: 查看完整指南
+              url: https://musicfree.catcat.work/usage/mobile/install-plugin.html
+              variant: text
+              size: medium
+              target: auto
+              needLogin: false
+              endIcon: ""
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        v9979xeclpsbvn0n:
+          value: flex-start
+    ja:
+      properties:
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: 完全ガイドを見る
+              url: https://musicfree.catcat.work/usage/mobile/install-plugin.html
+              variant: text
+              size: medium
+              target: auto
+              needLogin: false
+              endIcon: ""
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        v9979xeclpsbvn0n:
+          value: flex-start
   532d9e3f23bf303a:
     en:
       properties:
@@ -1824,6 +2404,22 @@ dataSource:
             width: 3024
             height: 1034
     zh:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/1440x700?text=Plugin+Installation+Screen
+            mediaKitUrl: https://placehold.co/1440x700?text=Plugin+Installation+Screen
+            width: 3024
+            height: 1034
+    zh-TW:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/1440x700?text=Plugin+Installation+Screen
+            mediaKitUrl: https://placehold.co/1440x700?text=Plugin+Installation+Screen
+            width: 3024
+            height: 1034
+    ja:
       properties:
         7m5pz8nefl5j9hqq:
           value:
@@ -1847,7 +2443,29 @@ dataSource:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: 实际效果展示
+            text: 一睹风采
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+    zh-TW:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 實際操作畫面
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+    ja:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 実際の動作を見てみよう
             style:
               variant: h2
         v5utpm7bu9yvdpnq:
@@ -1889,7 +2507,49 @@ dataSource:
             list:
               - id: item-1759185456428-p8i1jjk33
                 type: text
-                text: 简洁直观的设计让您的音乐库一目了然，轻松浏览您的音乐。
+                text: 通过干净、直观的设计轻松浏览您的音乐，将您的音乐库置于最显眼的位置。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    zh-TW:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 簡潔的主介面
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: 透過乾淨、直覺的設計輕鬆導覽您的音樂，將您的音樂庫置於中心位置。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    ja:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 洗練されたメインインターフェース
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: ライブラリが中心に配置された、クリーンで直感的なデザインで、音楽を簡単に操作できます。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1912,6 +2572,30 @@ dataSource:
         jjv0hvr8wrixt1f3:
           value: 1
     zh:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x450?text=Main+Interface
+            mediaKitUrl: https://placehold.co/800x450?text=Main+Interface
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
+    zh-TW:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x450?text=Main+Interface
+            mediaKitUrl: https://placehold.co/800x450?text=Main+Interface
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
+    ja:
       properties:
         7m5pz8nefl5j9hqq:
           value:
@@ -1958,7 +2642,49 @@ dataSource:
             list:
               - id: item-1759185456428-p8i1jjk33
                 type: text
-                text: 精美的全屏播放器，风格化展示专辑封面，让您专注于音乐本身。
+                text: 通过精美的全屏播放器专注于音乐，以时尚的方式展示专辑封面。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    zh-TW:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 沉浸式播放器
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: 透過精美的全螢幕播放器專注於音樂，時尚地展示專輯封面。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    ja:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 没入感のあるプレイヤー
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: アルバムアートを美しく表示するフルスクリーンプレイヤーで、音楽に集中できます。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1981,6 +2707,30 @@ dataSource:
         jjv0hvr8wrixt1f3:
           value: 1
     zh:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x450?text=Player+Page
+            mediaKitUrl: https://placehold.co/800x450?text=Player+Page
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
+    zh-TW:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x450?text=Player+Page
+            mediaKitUrl: https://placehold.co/800x450?text=Player+Page
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
+    ja:
       properties:
         7m5pz8nefl5j9hqq:
           value:
@@ -2027,7 +2777,49 @@ dataSource:
             list:
               - id: item-1759185456428-p8i1jjk33
                 type: text
-                text: 跟着与歌曲同步滚动的歌词一起唱。再也不会错过任何一个节拍！
+                text: 跟着与歌曲播放完美同步滚动的歌词一起唱。再也不会错过任何一个节拍！
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    zh-TW:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 同步歌詞
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: 跟著完美同步的歌詞一起唱，歌詞會隨著歌曲播放而滾動。不錯過任何一個節拍！
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    ja:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 同期された歌詞
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: 曲の再生に合わせてスクロールする、タイミングが完璧な歌詞と一緒に歌いましょう。もうビートを逃しません！
                 style:
                   color: ""
                   fontSize: 16px
@@ -2050,6 +2842,30 @@ dataSource:
         jjv0hvr8wrixt1f3:
           value: 1
     zh:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x450?text=Lyrics+Page
+            mediaKitUrl: https://placehold.co/800x450?text=Lyrics+Page
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
+    zh-TW:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x450?text=Lyrics+Page
+            mediaKitUrl: https://placehold.co/800x450?text=Lyrics+Page
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
+    ja:
       properties:
         7m5pz8nefl5j9hqq:
           value:
@@ -2096,7 +2912,49 @@ dataSource:
             list:
               - id: item-1759185456428-p8i1jjk33
                 type: text
-                text: 轻松管理您的播放列表，在其中搜索特定曲目，让您的音乐收藏保持整洁。
+                text: 轻松管理您的播放列表，在其中搜索特定曲目，并保持您的音乐收藏整洁有序。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    zh-TW:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 井然有序的播放清單
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: 輕鬆管理您的播放清單，在其中搜尋特定曲目，並讓您的音樂收藏保持整潔。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    ja:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 整理されたプレイリスト
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: プレイリストの管理や特定の曲の検索が簡単に行え、音楽コレクションを常に整理できます。
                 style:
                   color: ""
                   fontSize: 16px
@@ -2130,6 +2988,30 @@ dataSource:
           value: ""
         jjv0hvr8wrixt1f3:
           value: 1
+    zh-TW:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x450?text=Playlist+Page
+            mediaKitUrl: https://placehold.co/800x450?text=Playlist+Page
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
+    ja:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x450?text=Playlist+Page
+            mediaKitUrl: https://placehold.co/800x450?text=Playlist+Page
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   be2459a9b19a18c1:
     en:
       properties:
@@ -2150,6 +3032,34 @@ dataSource:
         gs1rn5jmxfvpxptx:
           value:
             text: 常见问题
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+        9ajrz12ik7esfk1z:
+          value:
+            list: []
+    zh-TW:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 常見問題
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+        9ajrz12ik7esfk1z:
+          value:
+            list: []
+    ja:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: よくある質問
             style:
               variant: h2
         v5utpm7bu9yvdpnq:
@@ -2199,16 +3109,65 @@ dataSource:
       properties:
         4221qi1bxy322mf4:
           value:
-            - title: MusicFree 真的是免费的吗？
-              answer: 是的！这是一个开源项目，将永远免费且无广告。如果您看到付费版本，它们都是假的，请立即举报。
+            - title: MusicFree 真的免费吗？
+              answer: 是的！它是一个开源项目，将永远免费且无广告。如果您看到付费版本，它们是假的，应立即举报。
             - title: 音乐从哪里来？
-              answer: MusicFree 本身不提供任何音乐。所有歌曲都来自您选择安装的插件，这些插件会连接到互联网上的各种音源。
+              answer: MusicFree 本身不提供任何音乐。所有歌曲都来自您选择安装的插件，这些插件连接到互联网上的各种来源。
             - title: 使用插件安全吗？
-              answer: 来自我们官方仓库的插件是安全的。如果您使用第三方插件，请自行验证其安全性。我们对恶意插件造成的问题概不负责。
+              answer: 来自我们官方仓库的插件是安全的。如果您使用第三方插件，请自行验证其安全性。对于由恶意插件引起的问题，我们概不负责。
             - title: 我如何获取插件？
-              answer: 很简单！您可以直接在应用的设置中通过网络 URL 安装。我们提供了一个官方插件仓库帮助您快速上手。请访问我们的网站查看链接和分步指南！
+              answer: 很简单！您可以直接在应用的设置中通过网络 URL 安装它们。我们提供一个官方插件仓库供您开始使用。请访问我们的网站查看链接和分步指南！
             - title: 支持哪些平台？
-              answer: 目前，MusicFree 适用于 Android 和 Harmony OS。我们还有一个独立的桌面版本在 GitHub 上供您试用！
+              answer: 目前，MusicFree 适用于 Android 和 Harmony OS。我们还有一个单独的桌面版本在 GitHub 上供您试用！
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+    zh-TW:
+      properties:
+        4221qi1bxy322mf4:
+          value:
+            - title: MusicFree 真的免費嗎？
+              answer: 是的！這是一個開源專案，將永遠免費且無廣告。如果您看到付費版本，它們是假的，應立即回報。
+            - title: 音樂從哪裡來？
+              answer: MusicFree 本身不提供任何音樂。所有歌曲都來自您選擇安裝的插件，這些插件會連接到網路上的各種來源。
+            - title: 使用插件安全嗎？
+              answer: 來自我們官方儲存庫的插件是安全的。如果您使用第三方插件，請自行驗證其安全性。我們對惡意插件造成的問題概不負責。
+            - title: 如何取得插件？
+              answer: 很簡單！您可以直接在應用程式的設定中，透過網路 URL
+                進行安裝。我們提供了一個官方插件儲存庫，幫助您快速上手。請查看我們的網站以獲取連結和詳細步驟指南！
+            - title: 支援哪些平台？
+              answer: 目前，MusicFree 適用於 Android 和 Harmony OS。我們在 GitHub 上還有一個獨立的桌面版本供您試用！
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+    ja:
+      properties:
+        4221qi1bxy322mf4:
+          value:
+            - title: MusicFreeは本当に無料ですか？
+              answer: はい！これはオープンソースプロジェクトであり、常に無料で広告もありません。もし有料版を見かけた場合、それらは偽物ですので、直ちに報告してください。
+            - title: 音楽はどこから提供されるのですか？
+              answer: MusicFree自体は音楽を提供していません。すべての曲は、あなたがインストールを選択したプラグインから提供されます。これらのプラグインは、インターネット上の様々なソースに接続します。
+            - title: プラグインは安全に使用できますか？
+              answer: 公式リポジトリのプラグインは安全です。サードパーティのプラグインを使用する場合は、ご自身でその安全性を確認してください。悪意のあるプラグインによって引き起こされた問題について、私たちは責任を負いません。
+            - title: どうすればプラグインを入手できますか？
+              answer: 簡単です！アプリの設定からネットワークURLを直接指定してインストールできます。すぐに始められるように、公式のプラグインリポジトリも提供しています。リンクと手順については、私たちのウェブサイトを確認してください！
+            - title: どのプラットフォームがサポートされていますか？
+              answer: 現在、MusicFreeはAndroidとHarmony OSで利用可能です。また、GitHubでは別のデスクトップ版も試すことができます！
             - title: ""
               answer: ""
             - title: ""
@@ -2251,7 +3210,7 @@ dataSource:
             list:
               - id: item-1759121327460-gc8w9kaxt
                 type: text
-                text: 立即下载 MusicFree，体验真正开放、可定制、无广告的音乐播放器。加入社区，解放你的音乐！
+                text: 立即下载 MusicFree，体验一个真正开放、可定制且无广告的音乐播放器。加入社区，解放你的音乐！
                 style:
                   color: ""
                   fontSize: 16px
@@ -2259,6 +3218,50 @@ dataSource:
         gs1rn5jmxfvpxptx:
           value:
             text: 准备好掌控你的音乐了吗？
+            style:
+              color: ""
+              variant: h1
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+    zh-TW:
+      properties:
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759121327460-gc8w9kaxt
+                type: text
+                text: 立即下載 MusicFree，體驗真正開放、可自訂且無廣告的音樂播放器。加入社群，解放您的音樂！
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 準備好掌控您的音樂了嗎？
+            style:
+              color: ""
+              variant: h1
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+    ja:
+      properties:
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759121327460-gc8w9kaxt
+                type: text
+                text: 今すぐMusicFreeをダウンロードして、真にオープンで、カスタマイズ可能で、広告のない音楽プレイヤーを体験してください。コミュニティに参加して、あなたの音楽を解放しましょう！
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        gs1rn5jmxfvpxptx:
+          value:
+            text: さあ、あなたの音楽を思い通りにコントロールしませんか？
             style:
               color: ""
               variant: h1
@@ -2303,6 +3306,50 @@ dataSource:
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 在 GitHub 上探索
+              variant: outlined
+              borderColor: common.white
+              size: large
+              url: https://github.com/maotoumao/MusicFree
+        r8t5y6u7i1o2p3a4:
+          value: 16
+        v5utpm7bu9yvdpnq:
+          value: center
+    zh-TW:
+      properties:
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: 下載 Android 版
+              url: https://github.com/maotoumao/MusicFree/releases
+              variant: contained
+              size: large
+              target: auto
+              needLogin: false
+            - id: btn-1759121436561-6r9xmg35x
+              text: 在 GitHub 上探索
+              variant: outlined
+              borderColor: common.white
+              size: large
+              url: https://github.com/maotoumao/MusicFree
+        r8t5y6u7i1o2p3a4:
+          value: 16
+        v5utpm7bu9yvdpnq:
+          value: center
+    ja:
+      properties:
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: Android版をダウンロード
+              url: https://github.com/maotoumao/MusicFree/releases
+              variant: contained
+              size: large
+              target: auto
+              needLogin: false
+            - id: btn-1759121436561-6r9xmg35x
+              text: GitHubで探す
               variant: outlined
               borderColor: common.white
               size: large
