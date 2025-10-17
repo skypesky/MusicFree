@@ -1,7 +1,7 @@
 id: 616571b7c79a8472
-createdAt: 2025-10-15T07:30:11.703Z
-updatedAt: 2025-10-15T07:30:11.703Z
-publishedAt: 2025-10-15T07:30:11.703Z
+createdAt: 2025-10-17T08:32:00.420Z
+updatedAt: 2025-10-17T08:32:00.420Z
+publishedAt: 2025-10-17T08:32:00.420Z
 isPublic: true
 locales:
   en:
@@ -1286,7 +1286,7 @@ dataSource:
               url: https://github.com/maotoumao/MusicFree/releases
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: View on GitHub
@@ -1310,7 +1310,7 @@ dataSource:
               url: https://github.com/maotoumao/MusicFree/releases
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 在 GitHub 上查看
@@ -1790,7 +1790,7 @@ dataSource:
               url: https://musicfree.catcat.work/usage/mobile/install-plugin.html
               variant: text
               size: medium
-              target: _self
+              target: auto
               needLogin: false
               endIcon: ""
         v5utpm7bu9yvdpnq:
@@ -1807,7 +1807,7 @@ dataSource:
               url: https://musicfree.catcat.work/usage/mobile/install-plugin.html
               variant: text
               size: medium
-              target: _self
+              target: auto
               needLogin: false
               endIcon: ""
         v5utpm7bu9yvdpnq:
@@ -1840,9 +1840,9 @@ dataSource:
             style:
               variant: h2
         v5utpm7bu9yvdpnq:
-          value: flex-start
+          value: center
         kyg0hdy5uqq4gc1o:
-          value: flex-start
+          value: center
     zh:
       properties:
         gs1rn5jmxfvpxptx:
@@ -1851,9 +1851,9 @@ dataSource:
             style:
               variant: h2
         v5utpm7bu9yvdpnq:
-          value: flex-start
+          value: center
         kyg0hdy5uqq4gc1o:
-          value: flex-start
+          value: center
   d1218989b9b5e72e:
     en:
       properties:
@@ -2277,7 +2277,7 @@ dataSource:
               url: https://github.com/maotoumao/MusicFree/releases
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Explore on GitHub
@@ -2299,7 +2299,7 @@ dataSource:
               url: https://github.com/maotoumao/MusicFree/releases
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 在 GitHub 上探索

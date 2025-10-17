@@ -1,6 +1,6 @@
 # Project information for page publishing
 projectName: MusicFree
-projectDesc: 插件化、定制化、无广告的免费音乐播放器
+projectDesc: Plugin-based, customizable, ad-free free music player
 projectLogo: https://avatars.githubusercontent.com/u/33124160?v=4
 projectId: cea0774f-c33d-42ae-aac5-90189eb66757
 projectSlug: musicfree
@@ -64,7 +64,8 @@ defaultDatasources:  # Default datasources included in every page
 # minImageWidth: Only images wider than this value (in pixels) will be used in page generation
 media:
   minImageWidth: 800
-lastGitHead: 2c9811c5d7639927ab5078b0f459f5c93d8d48b4
+lastGitHead: 4a8c9535dfe5c22492c812caeb20e4ed8e718e73
 appUrl: https://websmith.aigne.io
 # Checkout ID for website deployment service
 checkoutId: ""
+projectCover: .aigne/web-smith/cover.png

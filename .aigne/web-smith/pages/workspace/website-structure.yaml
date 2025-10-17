@@ -7,7 +7,7 @@
   navigation:
     title: Home
     description: Discover and download MusicFree
+  parentId: ""
   sourceIds:
     - readme-en.md
     - readme.md
-  parentId: ""
