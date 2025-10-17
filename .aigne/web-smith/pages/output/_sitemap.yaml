@@ -1,0 +1,61 @@
+sitemap:
+  - title: MusicFree - The Plugin-Based Music Player
+    path: /home
+    locales:
+      en:
+        title: MusicFree | Plugin-Based, Ad-Free Music Player for Android
+        description: Experience music your way with MusicFree! A plugin-powered,
+          customizable, and 100% ad-free music player for Android. Enjoy total
+          privacy with local data storage. Download now!
+        image: https://placehold.co/1200x630?text=MusicFree
+        style:
+          maxWidth: custom:1440px
+          paddingY: normal
+          paddingX: normal
+        backgroundColor: ""
+        header:
+          sticky: true
+      zh:
+        title: MusicFree | 基于插件的安卓无广告音乐播放器
+        description: 使用 MusicFree，随心所欲体验音乐！这是一款基于插件、可自定义、100%
+          无广告的安卓音乐播放器。所有数据本地存储，尽享完全隐私。立即下载！
+        image: https://placehold.co/1200x630?text=MusicFree
+        style:
+          maxWidth: custom:1440px
+          paddingY: normal
+          paddingX: normal
+        backgroundColor: ""
+        header:
+          sticky: true
+    meta:
+      file: home.yaml
+      id: 616571b7c79a8472
+      createdAt: 2025-10-15T07:30:11.703Z
+      updatedAt: 2025-10-15T07:30:11.703Z
+      publishedAt: 2025-10-15T07:30:11.703Z
+      isPublic: true
+navigations:
+  - id: 106a6c241b8797f5
+    section: header
+    visible: true
+    title:
+      en: Home
+      zh: 首页
+    link:
+      en: /
+      zh: /
+    description:
+      en: Discover and download MusicFree
+      zh: 发现并下载 MusicFree
+  - id: f5c5d15c42b3cf01
+    section: footer
+    visible: true
+    title:
+      en: Home
+      zh: 首页
+    link:
+      en: /
+      zh: /
+    description:
+      en: Discover and download MusicFree
+      zh: 发现并下载 MusicFree

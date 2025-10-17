@@ -1,0 +1,13 @@
+- title: MusicFree - The Plugin-Based Music Player
+  description: A comprehensive single-page site for MusicFree. This page
+    introduces the ad-free player, details its key features like the plugin
+    architecture and customization, provides app screenshots, offers direct
+    download links, and includes a Q&A section for users.
+  path: /home
+  navigation:
+    title: Home
+    description: Discover and download MusicFree
+  sourceIds:
+    - readme-en.md
+    - readme.md
+  parentId: ""

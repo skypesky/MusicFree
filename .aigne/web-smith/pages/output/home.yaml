@@ -1,0 +1,2313 @@
+id: 616571b7c79a8472
+createdAt: 2025-10-15T07:30:11.703Z
+updatedAt: 2025-10-15T07:30:11.703Z
+publishedAt: 2025-10-15T07:30:11.703Z
+isPublic: true
+locales:
+  en:
+    backgroundColor: ""
+    style:
+      maxWidth: custom:1440px
+      paddingY: normal
+      paddingX: normal
+    title: MusicFree | Plugin-Based, Ad-Free Music Player for Android
+    description: Experience music your way with MusicFree! A plugin-powered,
+      customizable, and 100% ad-free music player for Android. Enjoy total
+      privacy with local data storage. Download now!
+    image: https://placehold.co/1200x630?text=MusicFree
+    header:
+      sticky: true
+  zh:
+    backgroundColor: ""
+    style:
+      maxWidth: custom:1440px
+      paddingY: normal
+      paddingX: normal
+    title: MusicFree | 基于插件的安卓无广告音乐播放器
+    description: 使用 MusicFree，随心所欲体验音乐！这是一款基于插件、可自定义、100% 无广告的安卓音乐播放器。所有数据本地存储，尽享完全隐私。立即下载！
+    image: https://placehold.co/1200x630?text=MusicFree
+    header:
+      sticky: true
+sections:
+  e1c97b3710d489a2:
+    id: e1c97b3710d489a2
+    name: Feature Grid_left
+    component: layout-block
+    sections:
+      78e3421030dcbdd5:
+        id: 78e3421030dcbdd5
+        name: Content
+        component: layout-block
+        sections:
+          2595d95961e10014:
+            id: 2595d95961e10014
+            name: CTA
+            component: layout-block
+            sections:
+              087e8576fefadf0f:
+                id: 087e8576fefadf0f
+                name: Description
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+              5455a7046747c6d7:
+                id: 5455a7046747c6d7
+                name: Action
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: a44r0SiGV9AFn2Fj
+                sectionIds: []
+            sectionIds:
+              - 087e8576fefadf0f
+              - 5455a7046747c6d7
+            config:
+              gridSettings:
+                desktop:
+                  087e8576fefadf0f:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+                  5455a7046747c6d7:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+              paddingY: normal
+              gap: normal
+              maxWidth: full
+              paddingX: none
+          ccdf0179b25ef747:
+            id: ccdf0179b25ef747
+            name: Image
+            component: layout-block
+            sections:
+              f98b98ffd13b8a1d:
+                id: f98b98ffd13b8a1d
+                name: Media
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0JPjPs122kaaa-
+                sectionIds: []
+            sectionIds:
+              - f98b98ffd13b8a1d
+            config:
+              borderRadius: small
+              gridSettings:
+                desktop:
+                  f98b98ffd13b8a1d:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+              background: background.paper
+              paddingX: small
+              paddingY: small
+        sectionIds:
+          - 2595d95961e10014
+          - ccdf0179b25ef747
+        config:
+          borderRadius: small
+          paddingX: none
+          paddingY: normal
+          maxWidth: full
+          gridSettings:
+            desktop:
+              2595d95961e10014:
+                x: 0
+                y: 0
+                w: 5
+                h: 1
+              ccdf0179b25ef747:
+                x: 6
+                y: 0
+                w: 6
+                h: 1
+          gap: normal
+    sectionIds:
+      - 78e3421030dcbdd5
+    config:
+      gridSettings:
+        desktop:
+          78e3421030dcbdd5:
+            x: 0
+            y: 0
+            w: 12
+            h: 1
+      gap: normal
+      paddingY: normal
+      background: transparent
+      border: none
+      paddingX: none
+  671827b9508f92f3:
+    id: 671827b9508f92f3
+    name: Testimonials/Reviews
+    component: layout-block
+    sections:
+      84dac969276de5a3:
+        id: 84dac969276de5a3
+        name: Title
+        component: layout-block
+        sections:
+          d79cdf28faac3108:
+            id: d79cdf28faac3108
+            name: LayoutTitle
+            component: custom-component
+            config:
+              useCache: true
+              componentId: xoHu0J44322kDYc-
+            sectionIds: []
+        sectionIds:
+          - d79cdf28faac3108
+        config:
+          gap: small
+          paddingX: none
+          alignContent: start
+          gridSettings:
+            desktop:
+              d79cdf28faac3108:
+                x: 0
+                y: 0
+                w: 12
+                h: 1
+            mobile:
+              d79cdf28faac3108:
+                id: d79cdf28faac3108
+      029ef42ecf2f3c2d:
+        id: 029ef42ecf2f3c2d
+        name: Cards
+        component: layout-block
+        sections:
+          9736a35b6204c1d8:
+            id: 9736a35b6204c1d8
+            name: Cards-1
+            component: layout-block
+            sections:
+              8a0319c7be20285c:
+                id: 8a0319c7be20285c
+                name: Title
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+              527d9e489ed1baa2:
+                id: 527d9e489ed1baa2
+                name: Icon
+                component: layout-block
+                sections:
+                  3ee66b593de1e036:
+                    id: 3ee66b593de1e036
+                    name: Icon
+                    component: custom-component
+                    config:
+                      useCache: true
+                      componentId: YwuDiIbyyF5vfGpt
+                    sectionIds: []
+                sectionIds:
+                  - 3ee66b593de1e036
+                config:
+                  gridSettings:
+                    desktop:
+                      3ee66b593de1e036:
+                        x: 0
+                        y: 0
+                        w: 12
+                        h: 1
+                  background: transparent
+                  height: 100%
+                  borderRadius: custom:0px
+                  alignContent: start
+            sectionIds:
+              - 8a0319c7be20285c
+              - 527d9e489ed1baa2
+            config:
+              gridSettings:
+                desktop:
+                  8a0319c7be20285c:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+                  527d9e489ed1baa2:
+                    x: 0
+                    y: 0
+                    w: 6
+                    h: 1
+                mobile:
+                  8a0319c7be20285c:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+                  527d9e489ed1baa2:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
+              borderRadius: small
+              gap: normal
+              border: solid
+              alignContent: start
+          c2753e6a35792fc3:
+            id: c2753e6a35792fc3
+            name: Cards-2
+            component: layout-block
+            sections:
+              051f5382aaa30930:
+                id: 051f5382aaa30930
+                name: Title
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+              3fd5ca10c66e4eb0:
+                id: 3fd5ca10c66e4eb0
+                name: Icon
+                component: layout-block
+                sections:
+                  8aee431fd7b453d4:
+                    id: 8aee431fd7b453d4
+                    name: Icon
+                    component: custom-component
+                    config:
+                      useCache: true
+                      componentId: YwuDiIbyyF5vfGpt
+                    sectionIds: []
+                sectionIds:
+                  - 8aee431fd7b453d4
+                config:
+                  gridSettings:
+                    desktop:
+                      8aee431fd7b453d4:
+                        x: 0
+                        y: 0
+                        w: 12
+                        h: 1
+                  background: transparent
+                  height: 100%
+                  borderRadius: custom:0px
+                  alignContent: start
+            sectionIds:
+              - 051f5382aaa30930
+              - 3fd5ca10c66e4eb0
+            config:
+              gridSettings:
+                desktop:
+                  051f5382aaa30930:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+                  3fd5ca10c66e4eb0:
+                    x: 0
+                    y: 0
+                    w: 6
+                    h: 1
+                mobile:
+                  051f5382aaa30930:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+                  3fd5ca10c66e4eb0:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
+              borderRadius: small
+              gap: normal
+              border: solid
+              alignContent: start
+          4c12062dd7030da4:
+            id: 4c12062dd7030da4
+            name: Cards-3
+            component: layout-block
+            sections:
+              6cf87c8dd697af94:
+                id: 6cf87c8dd697af94
+                name: Title
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+              eb1727d56ab40dd6:
+                id: eb1727d56ab40dd6
+                name: Icon
+                component: layout-block
+                sections:
+                  835229da4540f842:
+                    id: 835229da4540f842
+                    name: Icon
+                    component: custom-component
+                    config:
+                      useCache: true
+                      componentId: YwuDiIbyyF5vfGpt
+                    sectionIds: []
+                sectionIds:
+                  - 835229da4540f842
+                config:
+                  gridSettings:
+                    desktop:
+                      835229da4540f842:
+                        x: 0
+                        y: 0
+                        w: 12
+                        h: 1
+                  background: transparent
+                  height: 100%
+                  borderRadius: custom:0px
+                  alignContent: start
+            sectionIds:
+              - 6cf87c8dd697af94
+              - eb1727d56ab40dd6
+            config:
+              gridSettings:
+                desktop:
+                  6cf87c8dd697af94:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+                  eb1727d56ab40dd6:
+                    x: 0
+                    y: 0
+                    w: 6
+                    h: 1
+                mobile:
+                  6cf87c8dd697af94:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+                  eb1727d56ab40dd6:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
+              borderRadius: small
+              gap: normal
+              border: solid
+              alignContent: start
+          95e04be57343246b:
+            id: 95e04be57343246b
+            name: Cards-4
+            component: layout-block
+            sections:
+              6c7d6356a9593b08:
+                id: 6c7d6356a9593b08
+                name: Title
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+              e54d5c77b851d15a:
+                id: e54d5c77b851d15a
+                name: Icon
+                component: layout-block
+                sections:
+                  3146007f1ae8e627:
+                    id: 3146007f1ae8e627
+                    name: Icon
+                    component: custom-component
+                    config:
+                      useCache: true
+                      componentId: YwuDiIbyyF5vfGpt
+                    sectionIds: []
+                sectionIds:
+                  - 3146007f1ae8e627
+                config:
+                  gridSettings:
+                    desktop:
+                      3146007f1ae8e627:
+                        x: 0
+                        y: 0
+                        w: 12
+                        h: 1
+                  background: transparent
+                  height: 100%
+                  borderRadius: custom:0px
+                  alignContent: start
+            sectionIds:
+              - 6c7d6356a9593b08
+              - e54d5c77b851d15a
+            config:
+              gridSettings:
+                desktop:
+                  6c7d6356a9593b08:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+                  e54d5c77b851d15a:
+                    x: 0
+                    y: 0
+                    w: 6
+                    h: 1
+                mobile:
+                  6c7d6356a9593b08:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+                  e54d5c77b851d15a:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
+              borderRadius: small
+              gap: normal
+              border: solid
+              alignContent: start
+          bd5002d1be146892:
+            id: bd5002d1be146892
+            name: Cards-5
+            component: layout-block
+            sections:
+              c29e90aa797f1e8a:
+                id: c29e90aa797f1e8a
+                name: Title
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+              8f6ca404a8890cfa:
+                id: 8f6ca404a8890cfa
+                name: Icon
+                component: layout-block
+                sections:
+                  37a9e660875f3168:
+                    id: 37a9e660875f3168
+                    name: Icon
+                    component: custom-component
+                    config:
+                      useCache: true
+                      componentId: YwuDiIbyyF5vfGpt
+                    sectionIds: []
+                sectionIds:
+                  - 37a9e660875f3168
+                config:
+                  gridSettings:
+                    desktop:
+                      37a9e660875f3168:
+                        x: 0
+                        y: 0
+                        w: 12
+                        h: 1
+                  background: transparent
+                  height: 100%
+                  borderRadius: custom:0px
+                  alignContent: start
+            sectionIds:
+              - c29e90aa797f1e8a
+              - 8f6ca404a8890cfa
+            config:
+              gridSettings:
+                desktop:
+                  c29e90aa797f1e8a:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+                  8f6ca404a8890cfa:
+                    x: 0
+                    y: 0
+                    w: 6
+                    h: 1
+                mobile:
+                  c29e90aa797f1e8a:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+                  8f6ca404a8890cfa:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
+              borderRadius: small
+              gap: normal
+              border: solid
+              alignContent: start
+          ca4504d462ad8fdc:
+            id: ca4504d462ad8fdc
+            name: Cards-6
+            component: layout-block
+            sections:
+              9f9904bac4b8d3a3:
+                id: 9f9904bac4b8d3a3
+                name: Title
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+              6c38bc5dc474e806:
+                id: 6c38bc5dc474e806
+                name: Icon
+                component: layout-block
+                sections:
+                  f3f0594beead88bb:
+                    id: f3f0594beead88bb
+                    name: Icon
+                    component: custom-component
+                    config:
+                      useCache: true
+                      componentId: YwuDiIbyyF5vfGpt
+                    sectionIds: []
+                sectionIds:
+                  - f3f0594beead88bb
+                config:
+                  gridSettings:
+                    desktop:
+                      f3f0594beead88bb:
+                        x: 0
+                        y: 0
+                        w: 12
+                        h: 1
+                  background: transparent
+                  height: 100%
+                  borderRadius: custom:0px
+                  alignContent: start
+            sectionIds:
+              - 9f9904bac4b8d3a3
+              - 6c38bc5dc474e806
+            config:
+              gridSettings:
+                desktop:
+                  9f9904bac4b8d3a3:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+                  6c38bc5dc474e806:
+                    x: 0
+                    y: 0
+                    w: 6
+                    h: 1
+                mobile:
+                  9f9904bac4b8d3a3:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+                  6c38bc5dc474e806:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
+              borderRadius: small
+              gap: normal
+              border: solid
+              alignContent: start
+        sectionIds:
+          - 9736a35b6204c1d8
+          - c2753e6a35792fc3
+          - 4c12062dd7030da4
+          - 95e04be57343246b
+          - bd5002d1be146892
+          - ca4504d462ad8fdc
+        config:
+          gridSettings:
+            desktop:
+              9736a35b6204c1d8:
+                x: 0
+                y: 0
+                w: 4
+                h: 1
+              c2753e6a35792fc3:
+                x: 4
+                y: 0
+                w: 4
+                h: 1
+              4c12062dd7030da4:
+                x: 8
+                y: 0
+                w: 4
+                h: 1
+              95e04be57343246b:
+                x: 0
+                y: 1
+                w: 4
+                h: 1
+              bd5002d1be146892:
+                x: 4
+                y: 1
+                w: 4
+                h: 1
+              ca4504d462ad8fdc:
+                x: 8
+                y: 1
+                w: 4
+                h: 1
+            mobile:
+              9736a35b6204c1d8:
+                x: 0
+                y: 0
+                w: 12
+                h: 1
+              c2753e6a35792fc3:
+                x: 0
+                y: 1
+                w: 12
+                h: 1
+              4c12062dd7030da4:
+                x: 0
+                y: 2
+                w: 12
+                h: 1
+          gap: small
+          paddingX: none
+    sectionIds:
+      - 84dac969276de5a3
+      - 029ef42ecf2f3c2d
+    config:
+      gridSettings:
+        desktop:
+          029ef42ecf2f3c2d:
+            x: 0
+            y: 1
+            w: 12
+            h: 1
+          84dac969276de5a3:
+            x: 0
+            y: 0
+            w: 12
+            h: 1
+      gap: normal
+      paddingY: none
+      paddingX: none
+  498a8e31f1ddacbb:
+    id: 498a8e31f1ddacbb
+    name: Feature Section_2
+    component: layout-block
+    sections:
+      5dc6a8152c680497:
+        id: 5dc6a8152c680497
+        name: Title
+        component: layout-block
+        sections:
+          ff0330a902e913e4:
+            id: ff0330a902e913e4
+            name: Title
+            component: custom-component
+            config:
+              useCache: true
+              componentId: xoHu0J44322kDYc-
+            sectionIds: []
+          b153f4394fed2823:
+            id: b153f4394fed2823
+            name: Action
+            component: custom-component
+            config:
+              useCache: true
+              componentId: a44r0SiGV9AFn2Fj
+            sectionIds: []
+        sectionIds:
+          - ff0330a902e913e4
+          - b153f4394fed2823
+        config:
+          gap: small
+          paddingX: none
+          gridSettings:
+            desktop:
+              ff0330a902e913e4:
+                x: 0
+                y: 0
+                w: 6
+                h: 1
+              b153f4394fed2823:
+                x: 0
+                y: 1
+                w: 12
+                h: 1
+            mobile:
+              ff0330a902e913e4:
+                id: ff0330a902e913e4
+          alignContent: start
+      9e8a58145f573ac4:
+        id: 9e8a58145f573ac4
+        name: Logs
+        component: layout-block
+        sections:
+          dc5fbdf256751b7c:
+            id: dc5fbdf256751b7c
+            name: Card01
+            component: layout-block
+            sections:
+              532d9e3f23bf303a:
+                id: 532d9e3f23bf303a
+                name: Media
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0JPjPs122kaaa-
+                sectionIds: []
+            sectionIds:
+              - 532d9e3f23bf303a
+            config:
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
+              borderRadius: small
+              gap: normal
+              border: solid
+              alignContent: center
+              gridSettings:
+                desktop:
+                  532d9e3f23bf303a:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+                mobile:
+                  t7hco63shuiga559:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+                    id: t7hco63shuiga559
+                  532d9e3f23bf303a:
+                    id: 532d9e3f23bf303a
+        sectionIds:
+          - dc5fbdf256751b7c
+        config:
+          gap: small
+          paddingX: none
+          gridSettings:
+            desktop:
+              dc5fbdf256751b7c:
+                x: 0
+                y: 0
+                w: 12
+                h: 1
+            mobile:
+              dc5fbdf256751b7c:
+                x: 0
+                y: 2
+                w: 12
+                h: 1
+                id: dc5fbdf256751b7c
+    sectionIds:
+      - 5dc6a8152c680497
+      - 9e8a58145f573ac4
+    config:
+      gridSettings:
+        desktop:
+          5dc6a8152c680497:
+            x: 0
+            y: 0
+            w: 12
+            h: 1
+          9e8a58145f573ac4:
+            x: 0
+            y: 1
+            w: 12
+            h: 1
+      gap: normal
+      paddingY: none
+      paddingX: none
+  d24947184a638069:
+    id: d24947184a638069
+    name: Feature Grid (2x2)_2
+    component: layout-block
+    sections:
+      5df92230a16c654d:
+        id: 5df92230a16c654d
+        name: Title
+        component: layout-block
+        sections:
+          2566cd620df3e7eb:
+            id: 2566cd620df3e7eb
+            name: RichText
+            component: custom-component
+            config:
+              useCache: true
+              componentId: xoHu0J44322kDYc-
+            sectionIds: []
+        sectionIds:
+          - 2566cd620df3e7eb
+        config:
+          gap: small
+          paddingX: none
+          gridSettings:
+            desktop:
+              2566cd620df3e7eb:
+                x: 0
+                y: 0
+                w: 12
+                h: 1
+            mobile:
+              2566cd620df3e7eb:
+                id: 2566cd620df3e7eb
+          alignContent: start
+      05a0e09a13ced90b:
+        id: 05a0e09a13ced90b
+        name: Cards
+        component: layout-block
+        sections:
+          9f312eb9fcf837a8:
+            id: 9f312eb9fcf837a8
+            name: Cards-1
+            component: layout-block
+            sections:
+              d1218989b9b5e72e:
+                id: d1218989b9b5e72e
+                name: RichText
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+              52a74ead09463cf5:
+                id: 52a74ead09463cf5
+                name: Media
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0JPjPs122kaaa-
+                sectionIds: []
+            sectionIds:
+              - d1218989b9b5e72e
+              - 52a74ead09463cf5
+            config:
+              gridSettings:
+                desktop:
+                  d1218989b9b5e72e:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+                  52a74ead09463cf5:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+              paddingX: custom:32px
+              gap: normal
+              paddingY: custom:32px
+              background: background.paper
+              border: solid
+              borderRadius: small
+              alignContent: space-between
+          7180500b4acba095:
+            id: 7180500b4acba095
+            name: Cards-2
+            component: layout-block
+            sections:
+              b1b63adc7571b1b6:
+                id: b1b63adc7571b1b6
+                name: RichText
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+              c85e815c5fa30b8a:
+                id: c85e815c5fa30b8a
+                name: Media
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0JPjPs122kaaa-
+                sectionIds: []
+            sectionIds:
+              - b1b63adc7571b1b6
+              - c85e815c5fa30b8a
+            config:
+              gridSettings:
+                desktop:
+                  b1b63adc7571b1b6:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+                  c85e815c5fa30b8a:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+              paddingX: custom:32px
+              gap: normal
+              paddingY: custom:32px
+              background: background.paper
+              border: solid
+              borderRadius: small
+              alignContent: space-between
+          ba09c9f800c402b0:
+            id: ba09c9f800c402b0
+            name: Cards-3
+            component: layout-block
+            sections:
+              a9d390c7e6ba8590:
+                id: a9d390c7e6ba8590
+                name: RichText
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+              1e7316c8746e4ef9:
+                id: 1e7316c8746e4ef9
+                name: Media
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0JPjPs122kaaa-
+                sectionIds: []
+            sectionIds:
+              - a9d390c7e6ba8590
+              - 1e7316c8746e4ef9
+            config:
+              gridSettings:
+                desktop:
+                  a9d390c7e6ba8590:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+                  1e7316c8746e4ef9:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+              paddingX: custom:32px
+              gap: normal
+              paddingY: custom:32px
+              background: background.paper
+              border: solid
+              borderRadius: small
+              alignContent: space-between
+          0935cd62a82eda63:
+            id: 0935cd62a82eda63
+            name: Cards-4
+            component: layout-block
+            sections:
+              0763bce6d9529f13:
+                id: 0763bce6d9529f13
+                name: RichText
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+              28e06ee86370bb39:
+                id: 28e06ee86370bb39
+                name: Media
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0JPjPs122kaaa-
+                sectionIds: []
+            sectionIds:
+              - 0763bce6d9529f13
+              - 28e06ee86370bb39
+            config:
+              gridSettings:
+                desktop:
+                  0763bce6d9529f13:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+                  28e06ee86370bb39:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+              paddingX: custom:32px
+              gap: normal
+              paddingY: custom:32px
+              background: background.paper
+              border: solid
+              borderRadius: small
+              alignContent: space-between
+        sectionIds:
+          - 9f312eb9fcf837a8
+          - 7180500b4acba095
+          - ba09c9f800c402b0
+          - 0935cd62a82eda63
+        config:
+          gridSettings:
+            desktop:
+              9f312eb9fcf837a8:
+                x: 0
+                y: 0
+                w: 6
+                h: 1
+              7180500b4acba095:
+                x: 6
+                y: 0
+                w: 6
+                h: 1
+              ba09c9f800c402b0:
+                x: 0
+                y: 1
+                w: 6
+                h: 1
+              0935cd62a82eda63:
+                x: 6
+                y: 1
+                w: 6
+                h: 1
+            mobile:
+              9f312eb9fcf837a8:
+                x: 0
+                y: 0
+                w: 12
+                h: 1
+              7180500b4acba095:
+                x: 0
+                y: 1
+                w: 12
+                h: 1
+              ba09c9f800c402b0:
+                x: 0
+                y: 2
+                w: 12
+                h: 1
+              0935cd62a82eda63:
+                x: 0
+                y: 3
+                w: 12
+                h: 1
+          gap: small
+          paddingX: none
+    sectionIds:
+      - 5df92230a16c654d
+      - 05a0e09a13ced90b
+    config:
+      gridSettings:
+        desktop:
+          05a0e09a13ced90b:
+            x: 0
+            y: 1
+            w: 12
+            h: 1
+          5df92230a16c654d:
+            x: 0
+            y: 0
+            w: 12
+            h: 1
+      gap: normal
+      paddingY: none
+      paddingX: none
+  45e93fb05e9fd0dc:
+    id: 45e93fb05e9fd0dc
+    name: FAQs_2
+    component: layout-block
+    sections:
+      be2459a9b19a18c1:
+        id: be2459a9b19a18c1
+        name: Title
+        component: custom-component
+        config:
+          useCache: true
+          componentId: xoHu0J44322kDYc-
+        sectionIds: []
+      dbb2035e9969526a:
+        id: dbb2035e9969526a
+        name: FaqComponentV2
+        component: custom-component
+        config:
+          useCache: true
+          componentId: 4MikfrDpecX9hUD6
+        sectionIds: []
+    sectionIds:
+      - be2459a9b19a18c1
+      - dbb2035e9969526a
+    config:
+      gridSettings:
+        desktop:
+          dbb2035e9969526a:
+            x: 0
+            y: 1
+            w: 12
+            h: 1
+          be2459a9b19a18c1:
+            x: 0
+            y: 0
+            w: 12
+            h: 1
+      paddingX: none
+      gap: normal
+      paddingY: none
+  6edec3e84b5a8e8d:
+    id: 6edec3e84b5a8e8d
+    name: Full Background Hero
+    component: layout-block
+    sections:
+      b3de0f85ffafc96e:
+        id: b3de0f85ffafc96e
+        name: CTA
+        component: layout-block
+        sections:
+          b2fd4755c489229c:
+            id: b2fd4755c489229c
+            name: Description
+            component: custom-component
+            config:
+              useCache: true
+              componentId: xoHu0J44322kDYc-
+            sectionIds: []
+          508276fbeb60a116:
+            id: 508276fbeb60a116
+            name: Action
+            component: custom-component
+            config:
+              useCache: true
+              componentId: a44r0SiGV9AFn2Fj
+            sectionIds: []
+        sectionIds:
+          - b2fd4755c489229c
+          - 508276fbeb60a116
+        config:
+          gridSettings:
+            desktop:
+              b2fd4755c489229c:
+                x: 2
+                y: 0
+                w: 8
+                h: 1
+              508276fbeb60a116:
+                x: 0
+                y: 1
+                w: 12
+                h: 1
+          paddingY: large
+          gap: large
+          maxWidth: full
+          paddingX: none
+          background: background.paper
+          borderRadius: small
+    sectionIds:
+      - b3de0f85ffafc96e
+    config:
+      gridSettings:
+        desktop:
+          b3de0f85ffafc96e:
+            x: 0
+            y: 0
+            w: 12
+            h: 1
+      background: transparent
+      paddingY: none
+      backgroundFullWidth: false
+      paddingX: none
+sectionIds:
+  - e1c97b3710d489a2
+  - 671827b9508f92f3
+  - 498a8e31f1ddacbb
+  - d24947184a638069
+  - 45e93fb05e9fd0dc
+  - 6edec3e84b5a8e8d
+dataSource:
+  087e8576fefadf0f:
+    en:
+      properties:
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759121327460-gc8w9kaxt
+                type: text
+                text: Meet MusicFree, the plugin-based, ad-free music player for Android.
+                  Customize your experience, connect to any online source with
+                  plugins, and enjoy your tunes without interruptions. All your
+                  data stays on your device.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Your Music, Your Rules. Totally Free.
+            style:
+              variant: h1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    zh:
+      properties:
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759121327460-gc8w9kaxt
+                type: text
+                text: 了解一下
+                  MusicFree，这是一款基于插件的安卓无广告音乐播放器。您可以通过插件连接到任何在线音源、自定义您的体验，并享受无中断的音乐。您的所有数据都保留在设备上。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 你的音乐，你做主。完全免费。
+            style:
+              variant: h1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+  5455a7046747c6d7:
+    en:
+      properties:
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: Download Now
+              url: https://github.com/maotoumao/MusicFree/releases
+              variant: contained
+              size: large
+              target: _self
+              needLogin: false
+            - id: btn-1759121436561-6r9xmg35x
+              text: View on GitHub
+              variant: outlined
+              borderColor: primary.main
+              size: large
+              url: https://github.com/maotoumao/MusicFree
+        r8t5y6u7i1o2p3a4:
+          value: 16
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        v9979xeclpsbvn0n:
+          value: flex-start
+    zh:
+      properties:
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: 立即下载
+              url: https://github.com/maotoumao/MusicFree/releases
+              variant: contained
+              size: large
+              target: _self
+              needLogin: false
+            - id: btn-1759121436561-6r9xmg35x
+              text: 在 GitHub 上查看
+              variant: outlined
+              borderColor: primary.main
+              size: large
+              url: https://github.com/maotoumao/MusicFree
+        r8t5y6u7i1o2p3a4:
+          value: 16
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        v9979xeclpsbvn0n:
+          value: flex-start
+  f98b98ffd13b8a1d:
+    en:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x600?text=MusicFree+UI
+            mediaKitUrl: https://placehold.co/800x600?text=MusicFree+UI
+            width: 2445
+            height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
+    zh:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x600?text=MusicFree+UI
+            mediaKitUrl: https://placehold.co/800x600?text=MusicFree+UI
+            width: 2445
+            height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
+  d79cdf28faac3108:
+    en:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Why You'll Love MusicFree
+            style:
+              variant: h2
+    zh:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 你会爱上 MusicFree 的理由
+            style:
+              variant: h2
+  8a0319c7be20285c:
+    en:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Plugin-Powered Music
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: MusicFree is just a player! You decide the source. Install plugins to
+                  search, play, and import from anywhere on the web.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 插件驱动的音乐体验
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: MusicFree 只是一个播放器！音源由您决定。安装插件即可从网络上任意位置搜索、播放和导入音乐。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+  3ee66b593de1e036:
+    en:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:plug-zap
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    zh:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:plug-zap
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+  051f5382aaa30930:
+    en:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Your Vibe, Your Look
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: Switch between light and dark modes, or set a custom background to make
+                  the player truly yours. It’s all about your style.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 你的风格，你定义
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 在浅色和深色模式间切换，或设置自定义背景，让播放器真正属于您。一切由您的风格决定。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+  8aee431fd7b453d4:
+    en:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:palette
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    zh:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:palette
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+  6cf87c8dd697af94:
+    en:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Ad-Free & Open Source
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: Enjoy an uninterrupted listening experience. MusicFree is completely free,
+                  open source, and will never have ads. Period.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 无广告 & 开源
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 享受不间断的聆听体验。MusicFree 完全免费、开源，并且永远不会有广告。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+  835229da4540f842:
+    en:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:shield-off
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    zh:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:shield-off
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+  6c7d6356a9593b08:
+    en:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Your Data is Yours
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: All your data, playlists, and settings are stored locally on your device.
+                  We don't collect any of your personal information.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 你的数据，归你所有
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 您的所有数据、播放列表和设置都存储在您的本地设备上。我们不收集您的任何个人信息。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+  3146007f1ae8e627:
+    en:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:lock
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    zh:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:lock
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+  c29e90aa797f1e8a:
+    en:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Lyrics Association
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: Link lyrics from one song to another. Perfect for covers, remixes, or when
+                  you just find better lyrics elsewhere.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 歌词关联
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 将一首歌的歌词关联到另一首歌。非常适合翻唱、混音，或者当您在别处找到更好的歌词时使用。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+  37a9e660875f3168:
+    en:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:music-4
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    zh:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:music-4
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+  9f9904bac4b8d3a3:
+    en:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Also on Desktop!
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: Love MusicFree on your phone? Get the same great experience on your
+                  desktop. Check out MusicFreeDesktop on GitHub.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 支持桌面版！
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 喜欢手机上的 MusicFree 吗？在您的桌面上也能获得同样出色的体验。请在 GitHub 上查看 MusicFreeDesktop。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+  f3f0594beead88bb:
+    en:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:laptop
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+    zh:
+      properties:
+        5ek4m0kw9cu0ndns:
+          value: lucide:laptop
+        gugqsxx3xyveuu8n:
+          value: primary.main
+        529qbwiam7oypw8e:
+          value: 40px
+  ff0330a902e913e4:
+    en:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Get Started in Seconds
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759204484222-0kvkmgmke
+                type: text
+                text: Installing plugins is a breeze. Head to Settings, tap 'Install plugin from
+                  network', and paste the plugin repository URL. You'll be
+                  listening in no time!
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 秒速上手
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759204484222-0kvkmgmke
+                type: text
+                text: 安装插件轻而易举。前往“设置”，点击“从网络安装插件”，然后粘贴插件仓库的 URL。即刻开始聆听！
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+  b153f4394fed2823:
+    en:
+      properties:
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: See the Full Guide
+              url: https://musicfree.catcat.work/usage/mobile/install-plugin.html
+              variant: text
+              size: medium
+              target: _self
+              needLogin: false
+              endIcon: ""
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        v9979xeclpsbvn0n:
+          value: flex-start
+    zh:
+      properties:
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: 查看完整指南
+              url: https://musicfree.catcat.work/usage/mobile/install-plugin.html
+              variant: text
+              size: medium
+              target: _self
+              needLogin: false
+              endIcon: ""
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        v9979xeclpsbvn0n:
+          value: flex-start
+  532d9e3f23bf303a:
+    en:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/1440x700?text=Plugin+Installation+Screen
+            mediaKitUrl: https://placehold.co/1440x700?text=Plugin+Installation+Screen
+            width: 3024
+            height: 1034
+    zh:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/1440x700?text=Plugin+Installation+Screen
+            mediaKitUrl: https://placehold.co/1440x700?text=Plugin+Installation+Screen
+            width: 3024
+            height: 1034
+  2566cd620df3e7eb:
+    en:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: See It In Action
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    zh:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 实际效果展示
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+  d1218989b9b5e72e:
+    en:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Sleek Main Interface
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: Navigate your music effortlessly with a clean, intuitive design that puts
+                  your library front and center.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    zh:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 简洁的主界面
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: 简洁直观的设计让您的音乐库一目了然，轻松浏览您的音乐。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+  52a74ead09463cf5:
+    en:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x450?text=Main+Interface
+            mediaKitUrl: https://placehold.co/800x450?text=Main+Interface
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
+    zh:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x450?text=Main+Interface
+            mediaKitUrl: https://placehold.co/800x450?text=Main+Interface
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
+  b1b63adc7571b1b6:
+    en:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Immersive Player
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: Focus on the music with a beautiful, full-screen player that showcases
+                  album art in style.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    zh:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 沉浸式播放器
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: 精美的全屏播放器，风格化展示专辑封面，让您专注于音乐本身。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+  c85e815c5fa30b8a:
+    en:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x450?text=Player+Page
+            mediaKitUrl: https://placehold.co/800x450?text=Player+Page
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
+    zh:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x450?text=Player+Page
+            mediaKitUrl: https://placehold.co/800x450?text=Player+Page
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
+  a9d390c7e6ba8590:
+    en:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Synced Lyrics
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: Sing along with perfectly timed lyrics that scroll as the song plays.
+                  Never miss a beat!
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    zh:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 同步歌词
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: 跟着与歌曲同步滚动的歌词一起唱。再也不会错过任何一个节拍！
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+  1e7316c8746e4ef9:
+    en:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x450?text=Lyrics+Page
+            mediaKitUrl: https://placehold.co/800x450?text=Lyrics+Page
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
+    zh:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x450?text=Lyrics+Page
+            mediaKitUrl: https://placehold.co/800x450?text=Lyrics+Page
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
+  0763bce6d9529f13:
+    en:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Organized Playlists
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: Easily manage your playlists, search for specific tracks within them, and
+                  keep your music collection tidy.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    zh:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 井然有序的播放列表
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: 轻松管理您的播放列表，在其中搜索特定曲目，让您的音乐收藏保持整洁。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+  28e06ee86370bb39:
+    en:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x450?text=Playlist+Page
+            mediaKitUrl: https://placehold.co/800x450?text=Playlist+Page
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
+    zh:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: https://placehold.co/800x450?text=Playlist+Page
+            mediaKitUrl: https://placehold.co/800x450?text=Playlist+Page
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
+  be2459a9b19a18c1:
+    en:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Frequently Asked Questions
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+        9ajrz12ik7esfk1z:
+          value:
+            list: []
+    zh:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 常见问题
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+        9ajrz12ik7esfk1z:
+          value:
+            list: []
+  dbb2035e9969526a:
+    en:
+      properties:
+        4221qi1bxy322mf4:
+          value:
+            - title: Is MusicFree really free?
+              answer: Yes! It's an open-source project and will always be free and ad-free. If
+                you see paid versions, they are fake and should be reported
+                immediately.
+            - title: Where does the music come from?
+              answer: MusicFree itself doesn't provide any music. All songs come from the
+                plugins you choose to install, which connect to various sources
+                on the internet.
+            - title: Are plugins safe to use?
+              answer: Plugins from our official repository are safe. If you use third-party
+                plugins, please verify their security yourself. We are not
+                responsible for issues caused by malicious plugins.
+            - title: How do I get plugins?
+              answer: It's easy! You can install them from a network URL directly in the app's
+                settings. We provide an official plugin repository to get you
+                started. Check our website for the link and a step-by-step
+                guide!
+            - title: What platforms are supported?
+              answer: Currently, MusicFree is available for Android and Harmony OS. We also
+                have a separate desktop version available on GitHub for you to
+                try!
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+    zh:
+      properties:
+        4221qi1bxy322mf4:
+          value:
+            - title: MusicFree 真的是免费的吗？
+              answer: 是的！这是一个开源项目，将永远免费且无广告。如果您看到付费版本，它们都是假的，请立即举报。
+            - title: 音乐从哪里来？
+              answer: MusicFree 本身不提供任何音乐。所有歌曲都来自您选择安装的插件，这些插件会连接到互联网上的各种音源。
+            - title: 使用插件安全吗？
+              answer: 来自我们官方仓库的插件是安全的。如果您使用第三方插件，请自行验证其安全性。我们对恶意插件造成的问题概不负责。
+            - title: 我如何获取插件？
+              answer: 很简单！您可以直接在应用的设置中通过网络 URL 安装。我们提供了一个官方插件仓库帮助您快速上手。请访问我们的网站查看链接和分步指南！
+            - title: 支持哪些平台？
+              answer: 目前，MusicFree 适用于 Android 和 Harmony OS。我们还有一个独立的桌面版本在 GitHub 上供您试用！
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+  b2fd4755c489229c:
+    en:
+      properties:
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759121327460-gc8w9kaxt
+                type: text
+                text: Download MusicFree now and experience a truly open, customizable, and
+                  ad-free music player. Join the community and set your music
+                  free!
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Ready to Take Control of Your Music?
+            style:
+              color: ""
+              variant: h1
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+    zh:
+      properties:
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759121327460-gc8w9kaxt
+                type: text
+                text: 立即下载 MusicFree，体验真正开放、可定制、无广告的音乐播放器。加入社区，解放你的音乐！
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 准备好掌控你的音乐了吗？
+            style:
+              color: ""
+              variant: h1
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+  508276fbeb60a116:
+    en:
+      properties:
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: Download for Android
+              url: https://github.com/maotoumao/MusicFree/releases
+              variant: contained
+              size: large
+              target: _self
+              needLogin: false
+            - id: btn-1759121436561-6r9xmg35x
+              text: Explore on GitHub
+              variant: outlined
+              borderColor: common.white
+              size: large
+              url: https://github.com/maotoumao/MusicFree
+        r8t5y6u7i1o2p3a4:
+          value: 16
+        v5utpm7bu9yvdpnq:
+          value: center
+    zh:
+      properties:
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: 下载安卓版
+              url: https://github.com/maotoumao/MusicFree/releases
+              variant: contained
+              size: large
+              target: _self
+              needLogin: false
+            - id: btn-1759121436561-6r9xmg35x
+              text: 在 GitHub 上探索
+              variant: outlined
+              borderColor: common.white
+              size: large
+              url: https://github.com/maotoumao/MusicFree
+        r8t5y6u7i1o2p3a4:
+          value: 16
+        v5utpm7bu9yvdpnq:
+          value: center
