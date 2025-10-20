@@ -1,0 +1,30 @@
+d31108d184e0c7d85162f05c314a928e96d4796e200c11297f4dabf8a612c0c6:
+  local_path: .imgs/song-cover-v0.6.jpg
+  sites:
+    https://websmith.aigne.io:
+      url: https://websmith.aigne.io/image-bin/uploads/d31108d184e0c7d8.jpg
+      upload_time: 2025-10-20T08:39:59.345Z
+7a4c885b946c25938d6cded1f252d0aa0962616b6c0597876a8c80ae8b4d639d:
+  local_path: .imgs/sidebar-v0.6.jpg
+  sites:
+    https://websmith.aigne.io:
+      url: https://websmith.aigne.io/image-bin/uploads/7a4c885b946c2593.jpg
+      upload_time: 2025-10-20T08:39:59.350Z
+7ded11a377957c1a278f2a5b3ec657a8a24fbf9f5ad42ee1117d0f17c88e49c9:
+  local_path: .imgs/main-v0.6.jpg
+  sites:
+    https://websmith.aigne.io:
+      url: https://websmith.aigne.io/image-bin/uploads/7ded11a377957c1a.jpg
+      upload_time: 2025-10-20T08:39:59.381Z
+cefe41ff9056a2509f6d1d683ff2f1f5807ad439f2dea1709cbfb90c782c2a82:
+  local_path: .imgs/song-lrc-v0.6.jpg
+  sites:
+    https://websmith.aigne.io:
+      url: https://websmith.aigne.io/image-bin/uploads/cefe41ff9056a250.jpg
+      upload_time: 2025-10-20T08:39:59.922Z
+efecb1aeccc7afd2d8d64dff498ac89414082f425c69978cbbd966cf77ea0054:
+  local_path: .imgs/song-sheet-v0.6.jpg
+  sites:
+    https://websmith.aigne.io:
+      url: https://websmith.aigne.io/image-bin/uploads/efecb1aeccc7afd2.jpg
+      upload_time: 2025-10-20T08:40:00.658Z

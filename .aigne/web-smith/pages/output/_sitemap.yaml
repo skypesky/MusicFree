@@ -16,9 +16,8 @@ sitemap:
         header:
           sticky: true
       zh:
-        title: MusicFree | 基于插件、无广告的安卓音乐播放器
-        description: 使用 MusicFree，随心畅享音乐！这是一款由插件驱动、可自定义、100%
-          无广告的安卓音乐播放器。所有数据本地存储，全面保护您的隐私。立即下载！
+        title: MusicFree | 基于插件的安卓无广告音乐播放器
+        description: 使用 MusicFree，随心畅听！这是一款基于插件、可自定义且 100% 无广告的安卓音乐播放器。所有数据本地存储，尽享完全隐私。立即下载！
         image: https://placehold.co/1200x630?text=MusicFree
         style:
           maxWidth: custom:1440px
@@ -28,8 +27,8 @@ sitemap:
         header:
           sticky: true
       zh-TW:
-        title: MusicFree | 基於插件、無廣告的 Android 音樂播放器
-        description: 使用 MusicFree，以您的方式體驗音樂！一款由插件驅動、可自訂且 100% 無廣告的 Android
+        title: MusicFree | 基於外掛、無廣告的 Android 音樂播放器
+        description: 使用 MusicFree，以您的方式體驗音樂！一款由外掛驅動、可自訂且 100% 無廣告的 Android
           音樂播放器。透過本機資料儲存，享受完全的隱私。立即下載！
         image: https://placehold.co/1200x630?text=MusicFree
         style:
@@ -41,7 +40,7 @@ sitemap:
           sticky: true
       ja:
         title: MusicFree | プラグイン対応・広告なしのAndroid向け音楽プレイヤー
-        description: MusicFreeで音楽を思いのままに！プラグイン対応、カスタマイズ可能、そして100%広告なしのAndroid向け音楽プレイヤー。データはローカルに保存され、プライバシーも万全です。今すぐダウンロード！
+        description: MusicFreeで音楽を思いのままに体験！プラグイン対応でカスタマイズ可能、100%広告なしのAndroid向け音楽プレイヤー。データはローカルに保存され、プライバシーも万全です。今すぐダウンロード！
         image: https://placehold.co/1200x630?text=MusicFree
         style:
           maxWidth: custom:1440px
@@ -53,9 +52,9 @@ sitemap:
     meta:
       file: home.yaml
       id: 616571b7c79a8472
-      createdAt: 2025-10-17T09:21:13.402Z
-      updatedAt: 2025-10-17T09:21:13.402Z
-      publishedAt: 2025-10-17T09:21:13.402Z
+      createdAt: 2025-10-20T08:37:57.528Z
+      updatedAt: 2025-10-20T08:37:57.528Z
+      publishedAt: 2025-10-20T08:37:57.528Z
       isPublic: true
 navigations:
   - id: 106a6c241b8797f5
@@ -64,8 +63,8 @@ navigations:
     title:
       en: Home
       zh: 首页
-      zh-TW: MusicFree | 基於插件、無廣告的 Android 音樂播放器
-      ja: MusicFree | プラグイン対応・広告なしのAndroid向け音楽プレイヤー
+      zh-TW: 首頁
+      ja: ホーム
     link:
       en: /
       zh: /
@@ -74,17 +73,16 @@ navigations:
     description:
       en: Discover and download MusicFree
       zh: 发现并下载 MusicFree
-      zh-TW: 使用 MusicFree，以您的方式體驗音樂！一款由插件驅動、可自訂且 100% 無廣告的 Android
-        音樂播放器。透過本機資料儲存，享受完全的隱私。立即下載！
-      ja: MusicFreeで音楽を思いのままに！プラグイン対応、カスタマイズ可能、そして100%広告なしのAndroid向け音楽プレイヤー。データはローカルに保存され、プライバシーも万全です。今すぐダウンロード！
+      zh-TW: 發現並下載 MusicFree
+      ja: MusicFreeを見つけてダウンロード
   - id: f5c5d15c42b3cf01
     section: footer
     visible: true
     title:
       en: Home
       zh: 首页
-      zh-TW: MusicFree | 基於插件、無廣告的 Android 音樂播放器
-      ja: MusicFree | プラグイン対応・広告なしのAndroid向け音楽プレイヤー
+      zh-TW: 首頁
+      ja: ホーム
     link:
       en: /
       zh: /
@@ -93,6 +91,5 @@ navigations:
     description:
       en: Discover and download MusicFree
       zh: 发现并下载 MusicFree
-      zh-TW: 使用 MusicFree，以您的方式體驗音樂！一款由插件驅動、可自訂且 100% 無廣告的 Android
-        音樂播放器。透過本機資料儲存，享受完全的隱私。立即下載！
-      ja: MusicFreeで音楽を思いのままに！プラグイン対応、カスタマイズ可能、そして100%広告なしのAndroid向け音楽プレイヤー。データはローカルに保存され、プライバシーも万全です。今すぐダウンロード！
+      zh-TW: 發現並下載 MusicFree
+      ja: MusicFreeを見つけてダウンロード

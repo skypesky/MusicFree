@@ -1,0 +1,163 @@
+descriptions:
+  93ac4ef843a5a6efe021926b5648f2b4e98e4c1d903a65338212f5148d5467c2:
+    path: ../../../.imgs/theme-setting.jpg
+    description: A mobile application screenshot displays the "Theme Settings"
+      interface in a dark mode, featuring various customization options. Users
+      can toggle "Dark Mode" on/off with a pink switch, select a background
+      image (one showing a mountain landscape at night is active), and fine-tune
+      its appearance with "Blur" and "Transparency" adjustment sliders. All
+      interface elements and text are presented in Chinese.
+    generatedAt: 2025-10-20T08:17:34.231Z
+  376a0131966caaa4d7d13fdba25ed368bd09ce508794c64a7fe9f1ef4c5ec4a8:
+    path: ../../../.imgs/song-lrc.jpg
+    description: This image is a mobile phone screenshot showcasing a music player
+      application displaying song lyrics. The screen features Chinese lyrics
+      centrally aligned against a blurred gradient background, with the
+      currently playing line highlighted. Standard media playback controls,
+      including a progress bar, pause button, and shuffle option, are visible at
+      the bottom of the interface.
+    generatedAt: 2025-10-20T08:17:34.231Z
+  d96d9d3f7b0e07ea1486db581f83b058856eeba1bee96f4dd92aaad466478a3c:
+    path: ../../../.imgs/song-sheet.jpg
+    description: This image is a screenshot of a mobile application interface
+      displaying a song playlist in a dark theme. The screen features a "Song
+      Sheet" header, a prominent section for "我喜欢" (I like) with 40 songs and an
+      associated album art thumbnail, and a scrollable list of numbered song
+      entries. Each song entry includes a title, artist/source, and a "bilibili"
+      tag, with a persistent player bar at the bottom showing a 4K Ultra HD icon
+      and playback controls.
+    generatedAt: 2025-10-20T08:17:34.231Z
+  b0bc0a9498b58dc8361cf9ca1fd53d1f66339895a6983ac3ee96af4bb08b3e4f:
+    path: ../../../.imgs/theme-setting-v0.6.jpg
+    description: This is a mobile phone screenshot displaying a "Theme Settings"
+      interface with various options for customizing the app's appearance. The
+      screen shows choices for "Light Mode," "Dark Mode," and "Custom
+      Background," with the custom background (a night sky scene) currently
+      selected and applied as the blurred background of the settings page. A
+      toggle for "Follow system dark settings" is also visible at the top.
+    generatedAt: 2025-10-20T08:17:34.231Z
+  a4eea86de39911848e8dd5b842ff91a70e908bd0b1426f0c97d9a1ce50cc5817:
+    path: ../../../.imgs/song-cover.jpg
+    description: This is a full-screen mobile phone screenshot depicting a video
+      player interface. The central focus is a video thumbnail showing a bright
+      blue sky with parts of two figures in white, overlaid with a prominent
+      yellow "4K ULTRA HD" badge. Below the video, playback controls include a
+      progress bar, current and total time, play/pause, skip, shuffle, like, and
+      download options, while the top displays the video title and platform
+      details.
+    generatedAt: 2025-10-20T08:17:34.231Z
+  cefe41ff9056a2509f6d1d683ff2f1f5807ad439f2dea1709cbfb90c782c2a82:
+    path: ../../../.imgs/song-lrc-v0.6.jpg
+    description: This image is a screenshot of a mobile music player interface,
+      showcasing synchronized lyrics in a dark mode theme. The screen displays
+      Chinese lyrics with the currently playing line highlighted in blue, along
+      with the song title, artist, and source (Bilibili). Standard music
+      playback controls are visible at the bottom, including a progress bar
+      showing the current timestamp (02:51) against the total duration (04:30),
+      play/pause, skip, shuffle, and playlist options.
+    generatedAt: 2025-10-20T08:17:34.231Z
+  7a4c885b946c25938d6cded1f252d0aa0962616b6c0597876a8c80ae8b4d639d:
+    path: ../../../.imgs/sidebar-v0.6.jpg
+    description: This image is a screenshot of a mobile application's sidebar menu,
+      identified as "MusicFree," presented in a dark theme with white text and
+      icons. The menu categorizes various settings and options, including basic
+      settings, plugin and theme management, backup, permission control,
+      language selection (showing Simplified Chinese), and software updates with
+      the current version displayed as 0.6.0-alpha.0. The left-aligned menu
+      offers comprehensive app configuration, partially revealing the main
+      content area on the right.
+    generatedAt: 2025-10-20T08:17:34.231Z
+  3fa80e04dcc3dd645437683e2706b8b34dd4cbf6cc051152ced042234dd5c940:
+    path: ../../../.imgs/main.jpg
+    description: This screenshot displays a mobile music player application in a
+      dark theme, specifically showing the "Favorites" section. It features a
+      list of three playlists with album art, titles (e.g., "周杰伦" - Jay Chou),
+      and song counts, accompanied by options to add or delete playlists. A
+      search bar is visible at the top, along with navigation tabs for local
+      music and downloads, and a mini-player at the bottom indicates a song is
+      currently playing.
+    generatedAt: 2025-10-20T08:17:34.231Z
+  5752a8ed6510b94044ffd18b005b74955b224110c45c27b0d80c4e60d0f34b6f:
+    path: ../../../.imgs/search-in-sheet.jpg
+    description: This mobile screenshot depicts a media player application's search
+      interface, displaying no results found for a query. The top features a
+      search bar labeled "在列表中搜索歌曲" (Search for songs in the list) and the main
+      content area shows "什么都没有呀~" (There's nothing here~). A persistent
+      playback bar at the bottom indicates a track titled "【4K修复】 Sweety -
+      樱花..." is playing, along with a 4K Ultra HD icon.
+    generatedAt: 2025-10-20T08:17:34.231Z
+  7ded11a377957c1a278f2a5b3ec657a8a24fbf9f5ad42ee1117d0f17c88e49c9:
+    path: ../../../.imgs/main-v0.6.jpg
+    description: This screenshot displays the dark-themed user interface of a mobile
+      music player application, highlighting its playlist management and music
+      discovery features. The interface includes a search bar, quick access
+      buttons for recommended playlists, charts, playback history, and local
+      music. It shows a user's playlists, complete with album art thumbnails,
+      song counts, and "Hi-Res Audio" indicators, alongside a mini-player bar at
+      the bottom indicating a currently playing lossless audio track.
+    generatedAt: 2025-10-20T08:17:34.231Z
+  97d210081b30e10f625cbdd128dc64ec33d0ae0ae9c20835470c2b36ceadb758:
+    path: ../../../.imgs/basic-setting.jpg
+    description: This image is a screenshot of a mobile application's "Basic
+      Settings" interface, displayed in Chinese with a dark theme. It presents
+      various configuration options including toggles for playback and download
+      preferences (like using mobile data and simultaneous playback), numerical
+      limits for downloads and music cache, and options to clear different types
+      of cached data (music, lyrics, images). The screen also includes settings
+      for recording error logs.
+    generatedAt: 2025-10-20T08:17:34.231Z
+  efecb1aeccc7afd2d8d64dff498ac89414082f425c69978cbbd966cf77ea0054:
+    path: ../../../.imgs/song-sheet-v0.6.jpg
+    description: A mobile application screenshot displays a dark mode playlist
+      interface, showcasing a user's "Liked" songs or videos. The list items
+      feature various quality indicators like "4K", "Hi-Res Audio", "DSD", and
+      "lossless," with some content linked to Bilibili. A prominent album art
+      for the playlist is visible at the top, along with playback controls at
+      the bottom for the currently playing track.
+    generatedAt: 2025-10-20T08:17:34.231Z
+  48a4c15598956d47d53afe410b7bfd99f078a42ac2fbaad120c4a11373af31b8:
+    path: ../../../.imgs/artist-detail.jpg
+    description: This is a mobile application screenshot showcasing an artist's
+      profile page. It features an avatar, the artist's name and follower count,
+      along with a list of their uploaded videos or songs from Bilibili, each
+      with a thumbnail, title, and upload date. A bottom player bar indicates a
+      song is currently playing, enhancing the user experience of browsing and
+      consuming media.
+    generatedAt: 2025-10-20T08:17:34.231Z
+  d31108d184e0c7d85162f05c314a928e96d4796e200c11297f4dabf8a612c0c6:
+    path: ../../../.imgs/song-cover-v0.6.jpg
+    description: This image is a screenshot of a mobile music player interface,
+      featuring a dark mode theme with an elaborate central display. A colorful
+      circular audio visualizer surrounds an anime-style illustration of a cozy
+      room with a bed overlooking a city skyline at night. Standard music
+      playback controls, including shuffle, previous, play/pause, next, and a
+      progress bar showing 02:51 of 04:30, are visible at the bottom of the
+      screen.
+    generatedAt: 2025-10-20T08:17:34.231Z
+  7192c65ec3ef167a3178d7fa48b3a09f9e80748fb635d9ca96916341c672a093:
+    path: ../../../.imgs/search-in-sheet-v0.6.jpg
+    description: This image displays a mobile phone screen depicting a search
+      interface within a media application. The screen shows a list of search
+      results for songs or videos, highlighting features like "4K" resolution
+      and "lossless audio" from "bilibili." A full QWERTY virtual keyboard is
+      present at the bottom, indicating readiness for user text input.
+    generatedAt: 2025-10-20T08:17:34.231Z
+  74d97c6f734bfead737edc81c89571a9987b7bc114ad75de98da4478a6345817:
+    path: ../../../.imgs/basic-setting-v0.6.jpg
+    description: This image is a screenshot of a mobile application's "Basic
+      Settings" screen, rendered in Chinese with a dark theme. It displays
+      various configuration options organized under tabs such as "General,"
+      "Playlists & Albums," and "Plugins," with some settings controlled by
+      toggle switches. The interface allows users to customize app behavior
+      related to history, song detail pages, lyric association, plugin updates,
+      and default actions for playing songs.
+    generatedAt: 2025-10-20T08:17:34.231Z
+  4c6114c5d311ee79e6689b16e82831008c5cf744cd4a8491f711cb5253f4e46c:
+    path: ../../../.imgs/artist-detail-v0.6.jpg
+    description: This mobile application screenshot displays an artist's profile
+      page with a dark UI, featuring their name, follower count (5445), and an
+      avatar of a white cat. The main content area lists various media items,
+      likely videos or songs from Bilibili, with a persistent mini-player shown
+      at the bottom for controlling playback.
+    generatedAt: 2025-10-20T08:17:34.231Z
+lastUpdated: 2025-10-20T08:17:34.232Z

@@ -61,13 +61,18 @@ pagesDir: .aigne/web-smith/pages  # Directory to save generated pages
 sourcesPath:  # Source code paths to analyze
   - ./readme-en.md
   - ./readme.md
+  - ./.imgs
 defaultDatasources:  # Default datasources included in every page
   - ./media.md
 # minImageWidth: Only images wider than this value (in pixels) will be used in page generation
 media:
   minImageWidth: 800
-lastGitHead: 30be201793582adbf46bc9c7784bbd57b1c826df
+lastGitHead: 28f1f41a7c1c1565bb77345a1d63e19c1576c2f2
 appUrl: https://websmith.aigne.io
 # Checkout ID for website deployment service
 checkoutId: ""
 projectCover: .aigne/web-smith/cover.png
+# Navigation type for website
+navigationType: ""
+# Should sync all for website
+shouldSyncAll: ""

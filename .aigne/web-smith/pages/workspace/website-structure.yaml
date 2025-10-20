@@ -11,3 +11,21 @@
   sourceIds:
     - readme-en.md
     - readme.md
+    - src/assets/imgs/wechat_channel.jpg
+    - .imgs/main-v0.6.jpg
+    - .imgs/sidebar-v0.6.jpg
+    - .imgs/basic-setting-v0.6.jpg
+    - .imgs/theme-setting-v0.6.jpg
+    - .imgs/song-sheet-v0.6.jpg
+    - .imgs/search-in-sheet-v0.6.jpg
+    - .imgs/song-cover-v0.6.jpg
+    - .imgs/song-lrc-v0.6.jpg
+    - .imgs/artist-detail-v0.6.jpg
+    - .imgs/main.jpg
+    - .imgs/basic-setting.jpg
+    - .imgs/theme-setting.jpg
+    - .imgs/song-sheet.jpg
+    - .imgs/search-in-sheet.jpg
+    - .imgs/song-cover.jpg
+    - .imgs/song-lrc.jpg
+    - .imgs/artist-detail.jpg
